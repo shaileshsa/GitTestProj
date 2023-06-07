@@ -1,3 +1,4 @@
+/// *2.1 PROGRAM TO FIND GREATEST AMONG 3 NUMBERS/*
 class ternary
 {
 	public static void main(String args[])
