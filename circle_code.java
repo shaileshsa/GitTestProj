@@ -23,7 +23,7 @@ class circle
 {
 	public static void main(String args[])
 	{
-	cir obj=new cir();
+	circle_code obj=new circle_code();
 	obj.cal();
 	obj.display();
 	}

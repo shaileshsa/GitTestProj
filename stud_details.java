@@ -33,7 +33,7 @@ class student
 {
 	public static void main(String args[])
 	{
-	stud obj=new stud();
+	stud_details obj=new stud_details();
 	obj.data();
 	obj.display();
 	}
