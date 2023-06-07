@@ -1,14 +1,8 @@
-    class hello{  
-  
-public static void main(String[] args)   
-{  
-int number = 654321, reverse = 0;  
-while(number != 0)   
-{  
-int remainder = number % 10;  
-reverse = reverse * 10 + remainder;  
-number = number/10;  
-}  
-System.out.println("The reverse of the given number is: " + reverse);  
-}  
-} 
+class hello
+    {    
+        public static void main(String args[])
+        {
+        System.out.println("hello shailesh the great finisher");
+        }
+    }
+ 
