@@ -1,3 +1,4 @@
+/// /* 2.2 PROGRAM TO FIND PRIME NUMBERS FOR 1 TO N */
 class prime
 {
 	public static void main(String args[])
